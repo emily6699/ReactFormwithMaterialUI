@@ -1,7 +1,13 @@
-## React Step Form with Material UI
+## React Form with Material UI
+```
+# React form for entering user name, email, occupation, bio. Have continue and back buttons. 
+# Uses Material UI.
+# Frontend only.
+```
 ### Quick Start
 ```
 # Install dependencies
+npm install
 
 # Serve on localhost:3000
 npm start
