@@ -51,9 +51,10 @@ export class FormPersonalDetails extends Component {
             styles={styles.button}
             onClick={this.continue}
           />
+
           <RaisedButton
             label="Back"
-            primary={true}
+            primary={false}
             styles={styles.button}
             onClick={this.back}
           />
