@@ -32,8 +32,8 @@ export class FormPersonalDetails extends Component {
           <TextField
             hintText="Enter Your City"
             floatingLabelText="City"
-            onChange={handleChange("bio")}
-            defaultValue={values.bio}
+            onChange={handleChange("city")}
+            defaultValue={values.city}
           />
 
           <br />
