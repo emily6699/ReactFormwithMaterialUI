@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import MuiThemeProvider from "material-ui/styles/MuiThemeProvider";
 import AppBar from "material-ui/AppBar";
 import TextField from "material-ui/TextField";
-import RadioButton from "material-ui/RadioButton";
+
 import { RaisedButton } from "material-ui";
 
 export class FormUserDetails extends Component {
